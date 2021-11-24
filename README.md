@@ -1,3 +1,4 @@
 # Introduction
-**My name is Naveen kumar reddy**  
-*Im from B V raju institute of technology*
+**My name is A Naveen kumar Reddy**  
+*I'm from B V Raju Institute of Technology*
+*I'm intrested in Artificial Intelligence.
